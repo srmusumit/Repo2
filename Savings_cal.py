@@ -29,3 +29,5 @@ else:
     print ('your investment in this month is:', investment, '₹, in terms of percentage it is: ', (investment * 100)/salary, '%')
     print ('Total loan repayment is: ', loan , '₹, in terms of percentage it is: ', (loan * 100)/salary, '%.2f')
     print ('=======================================Cut your expenses to remove the deficit==========================================================')
+	print ('=======================================Thanks for using this calculator==========================================================')
+	
